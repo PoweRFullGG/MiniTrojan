@@ -1,5 +1,9 @@
 This program is a light-hearted, experimental virus created for fun and educational purposes. It’s designed to demonstrate how certain malicious behaviors can be implemented in software, with a focus on cybersecurity awareness.
 
+![Screenshot](https://github.com/PoweRFullGG/MiniTrojan/blob/main/Screenshot_235.png)
+![Screenshot](https://github.com/PoweRFullGG/MiniTrojan/blob/main/Screenshot_236.png)
+![Screenshot](https://github.com/PoweRFullGG/MiniTrojan/blob/main/Screenshot_237.png)
+
 Key Features:
 Telegram Control: The program can be managed through Telegram, allowing for remote commands and actions.
 
